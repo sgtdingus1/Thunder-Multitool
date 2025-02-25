@@ -7,3 +7,5 @@ Howdy, I made the Thunder Multitool for fun and to fuck with my buddies on Disco
 Run these commands in your command prompt and it should run smoothly!  
 
 ```pip install requests cryptography psutil speedtest-cli```
+```cd [FILE PATH HERE]```
+```python thunder.py```
